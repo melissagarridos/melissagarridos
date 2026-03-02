@@ -1,7 +1,9 @@
 Hi there 👋
 
 I am a **Software Developer** in training.
-I love travelling and learning languages
+
+I love travelling and learning languages.
+
 I currently focus on:
 
 ## 💻 Tech Stack

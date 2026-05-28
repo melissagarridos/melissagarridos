@@ -1,47 +1,41 @@
 # Hi there 👋
 
-I'm Melissa, a Software Developer and Data Analyst based in Colombia.
+I'm Melissa, a Business Operations Analyst based in Colombia.
 
-I specialize in automation, business intelligence, and data-driven solutions using Python, SQL, Power BI, JavaScript, HTML, CSS, and Excel.
+I help organizations improve operational performance through data analysis, process optimization, KPI tracking, and business reporting. Passionate about turning data into actionable insights that drive business results.
 
-Currently focused on building scalable systems, analytics dashboards, and modern web applications that improve workflows and transform raw data into actionable insights.
+## 📊 Core Skills
 
----
+- Business Operations
+- Process Improvement
+- KPI & Performance Analysis
+- Business Intelligence
+- Operational Reporting
+- Workflow Automation
+- Data Analysis
+- Cross-Functional Collaboration
 
 ## 💻 Tech Stack
 
-- Python 🐍
-- SQL 🗄️
-- JavaScript ⚡
-- HTML5 🌐
-- CSS3 🎨
-
----
-
-## 📊 Data & Analytics
-
-- Power BI (Data Modeling & Dashboards)
-- Excel (Advanced Formulas & Reporting)
-- KPI Tracking & Reporting
-- Data Cleaning & Visualization
-- Process Optimization
-
----
+- Power BI
+- Excel
+- SQL
+- Python
+- Power Query
+- Power Automate
+- Tableau
+- Microsoft Office Suite
 
 ## 🌍 Languages
 
-- Spanish — Native
-- English — Fluent (TOEFL C1)
-- French — Intermediate
-- Italian — Intermediate
+- Spanish (Native)
+- English (Fluent)
+- French (Intermediate)
+- Italian (Intermediate)
 
----
+## 📫 Connect
 
-## 📫 Connect With Me
+💼 LinkedIn  
+www.linkedin.com/in/melissavgs
 
-💼 LinkedIn:
-[https://www.linkedin.com/in/melissavgs/](https://www.linkedin.com/in/melissavgs/)
-
-🚀 Portfolio Website:
-https://melissagarridos.github.io/
-
+*"Transforming data into insights and operations into results."*

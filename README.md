@@ -2,9 +2,9 @@
 
 # Melissa Garrido
 
-### Software Developer | Problem Solver
+### Data Analyst | Business Intelligence
 
-Building modern web applications, automation tools, and user-focused solutions that transform complex workflows into intuitive experiences.
+Turning raw data into clear, actionable insight — building dashboards, reports, and analysis pipelines that help businesses make faster, better-informed decisions.
 
 <br>
 
@@ -18,43 +18,44 @@ Building modern web applications, automation tools, and user-focused solutions t
 
 ## About Me
 
-I'm a software developer focused on building practical applications that solve real-world business problems.
+I'm a data analyst focused on transforming raw, messy data into insights that drive real business decisions.
 
-My projects combine frontend development, automation, data processing, and user experience design to create efficient tools that improve workflows and reduce manual effort.
+My projects combine data cleaning, exploratory analysis, dashboard design, and reporting automation to help teams understand performance, spot trends, and act on evidence instead of guesswork.
 
-I enjoy transforming ideas into scalable, maintainable, and user-friendly software.
+I enjoy the full path from a spreadsheet or database to a dashboard someone can act on.
 
 ---
 ## Technical Skills
 
-### Frontend
+### Data Analysis
 
-- JavaScript
-- HTML5
-- CSS3
-- Responsive Design
-- DOM Manipulation
+- SQL
+- Python (Pandas, NumPy)
+- Excel (Advanced Formulas, Pivot Tables)
+- Statistical Analysis
+- Data Cleaning & Wrangling
 
-### Development
-
-- Git
-- GitHub
-- REST APIs
-- Browser APIs
-- File Processing
-
-### Data & Automation
+### Business Intelligence
 
 - Power BI
-- Data Analysis
-- Excel Automation
-- Data Processing
+- Dashboard Design
+- KPI & Metric Design
+- Data Visualization
+- Reporting Automation
+
+### Development & Data Handling
+
+- Python
+- REST APIs
+- File Processing
+- Git / GitHub
 - Workflow Optimization
 
 ### Tools
 
 - VS Code
-- GitHub Pages
+- Power BI / Excel
+- Jupyter Notebooks
 - Figma
 - Microsoft Office
 
@@ -62,26 +63,26 @@ I enjoy transforming ideas into scalable, maintainable, and user-friendly softwa
 
 ## What I Build
 
-- Web Applications
-- Automation Tools
-- Productivity Platforms
-- Dashboard Solutions
-- Operational Software
-- Business Workflow Tools
+- BI Dashboards
+- Data Analysis Pipelines
+- Reporting Automation
+- Business Performance Reports
+- Customer & Sales Analytics
+- Operational Insight Tools
 
 ---
 
 ## Development Philosophy
 
-I focus on creating software that is:
+I focus on delivering analysis that is:
 
-- User-Centered
-- Maintainable
-- Scalable
-- Practical
+- Data-Driven
+- Actionable
+- Clear & Well-Visualized
+- Reliable
 - Business-Oriented
 
-Every project is designed to solve a real problem while maintaining clean architecture and a positive user experience.
+Every project is designed to answer a real business question with clean, well-sourced data and a presentation that makes the answer obvious.
 
 ---
 
@@ -89,21 +90,21 @@ Every project is designed to solve a real problem while maintaining clean archit
 
 Currently expanding my expertise in:
 
-- Modern JavaScript
-- Frontend Frameworks
-- Full-Stack Development
-- Software Architecture
-- Product Development
+- Advanced SQL & Data Modeling
+- Power BI / DAX
+- Statistical & Predictive Analysis
+- Business Intelligence Architecture
+- Data Storytelling
 
 ---
 
 ## Connect
 
-Portfolio  
+Portfolio
 https://melissagarridos.github.io/
 
-LinkedIn  
+LinkedIn
 https://www.linkedin.com/in/melissavgs/
 
-GitHub  
+GitHub
 https://github.com/melissagarridos
